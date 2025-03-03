@@ -1,0 +1,16 @@
+C:\Users\oo108\source\repos\MyFirstApp\MyFirstApp\bin\Debug\net8.0-windows\MyFirstApp.exe
+C:\Users\oo108\source\repos\MyFirstApp\MyFirstApp\bin\Debug\net8.0-windows\MyFirstApp.deps.json
+C:\Users\oo108\source\repos\MyFirstApp\MyFirstApp\bin\Debug\net8.0-windows\MyFirstApp.runtimeconfig.json
+C:\Users\oo108\source\repos\MyFirstApp\MyFirstApp\bin\Debug\net8.0-windows\MyFirstApp.dll
+C:\Users\oo108\source\repos\MyFirstApp\MyFirstApp\bin\Debug\net8.0-windows\MyFirstApp.pdb
+C:\Users\oo108\source\repos\MyFirstApp\MyFirstApp\obj\Debug\net8.0-windows\MyFirstApp.Form1.resources
+C:\Users\oo108\source\repos\MyFirstApp\MyFirstApp\obj\Debug\net8.0-windows\MyFirstApp.csproj.GenerateResource.cache
+C:\Users\oo108\source\repos\MyFirstApp\MyFirstApp\obj\Debug\net8.0-windows\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oo108\source\repos\MyFirstApp\MyFirstApp\obj\Debug\net8.0-windows\MyFirstApp.AssemblyInfoInputs.cache
+C:\Users\oo108\source\repos\MyFirstApp\MyFirstApp\obj\Debug\net8.0-windows\MyFirstApp.AssemblyInfo.cs
+C:\Users\oo108\source\repos\MyFirstApp\MyFirstApp\obj\Debug\net8.0-windows\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\oo108\source\repos\MyFirstApp\MyFirstApp\obj\Debug\net8.0-windows\MyFirstApp.dll
+C:\Users\oo108\source\repos\MyFirstApp\MyFirstApp\obj\Debug\net8.0-windows\refint\MyFirstApp.dll
+C:\Users\oo108\source\repos\MyFirstApp\MyFirstApp\obj\Debug\net8.0-windows\MyFirstApp.pdb
+C:\Users\oo108\source\repos\MyFirstApp\MyFirstApp\obj\Debug\net8.0-windows\MyFirstApp.genruntimeconfig.cache
+C:\Users\oo108\source\repos\MyFirstApp\MyFirstApp\obj\Debug\net8.0-windows\ref\MyFirstApp.dll
